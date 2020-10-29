@@ -9,8 +9,8 @@ const settings = {
   "name": "my-app",
   "state": {
     "frontity": {
-      "url": "https://weeklyplugin.com",
-      "title": "Weekly Plugin",
+      "url": "https://websiteurl.com/wp-json",
+      "title": "Website Plugin",
       "description": "WordPress installation for Frontity development"
     }
   },
@@ -30,7 +30,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://weeklyplugin.com/wp-json"
+          "api": "https://websiteurl.com/wp-json"
         }
       },
       
