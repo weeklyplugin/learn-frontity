@@ -1,3 +1,10 @@
+/*
+API url:
+http://weeklyplugin.com/wp-json/wp/v2/pages/
+Page :
+https://weeklyplugin.com/acf-demo/
+*/
+
 const settings = {
   "name": "my-app",
   "state": {
