@@ -1,0 +1,14 @@
+webpackHotUpdate("my-app",{
+
+/***/ "./packages/jsnation-theme/src/theme-files/post.js":
+/*!*********************************************************!*\
+  !*** ./packages/jsnation-theme/src/theme-files/post.js ***!
+  \*********************************************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+eval("throw new Error(\"Module build failed (from ./node_modules/babel-loader/lib/index.js):\\nSyntaxError: /var/www/html/my-app/packages/jsnation-theme/src/theme-files/post.js: Can not use keyword 'await' outside an async function (11:29)\\n\\n\\u001b[0m \\u001b[90m  9 | \\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 10 | \\u001b[39m    \\u001b[90m// Other endpoints:\\u001b[39m\\u001b[0m\\n\\u001b[0m\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 11 | \\u001b[39m\\u001b[36mconst\\u001b[39m postBeautiesGullfoss \\u001b[33m=\\u001b[39m await api\\u001b[33m.\\u001b[39mget({\\u001b[0m\\n\\u001b[0m \\u001b[90m    | \\u001b[39m                             \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 12 | \\u001b[39m    endpoint\\u001b[33m:\\u001b[39m \\u001b[32m\\\"/acf/v3/posts\\\"\\u001b[39m\\u001b[33m,\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 13 | \\u001b[39m    params\\u001b[33m:\\u001b[39m { slug\\u001b[33m:\\u001b[39m \\u001b[32m\\\"state.router.link\\\"\\u001b[39m }\\u001b[33m,\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 14 | \\u001b[39m  })\\u001b[33m;\\u001b[39m\\u001b[0m\\n    at Object._raise (/var/www/html/my-app/node_modules/@babel/parser/src/parser/error.js:60:45)\\n    at Object.raiseWithData (/var/www/html/my-app/node_modules/@babel/parser/src/parser/error.js:55:17)\\n    at Object.raise (/var/www/html/my-app/node_modules/@babel/parser/src/parser/error.js:39:17)\\n    at Object.checkReservedWord (/var/www/html/my-app/node_modules/@babel/parser/src/parser/expression.js:2415:14)\\n    at Object.parseIdentifierName (/var/www/html/my-app/node_modules/@babel/parser/src/parser/expression.js:2362:12)\\n    at Object.parseIdentifier (/var/www/html/my-app/node_modules/@babel/parser/src/parser/expression.js:2320:23)\\n    at Object.parseExprAtom (/var/www/html/my-app/node_modules/@babel/parser/src/parser/expression.js:997:25)\\n    at Object.parseExprAtom (/var/www/html/my-app/node_modules/@babel/parser/src/plugins/jsx/index.js:535:22)\\n    at Object.parseExprSubscripts (/var/www/html/my-app/node_modules/@babel/parser/src/parser/expression.js:563:23)\\n    at Object.parseUpdate (/var/www/html/my-app/node_modules/@babel/parser/src/parser/expression.js:543:21)\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL3BhY2thZ2VzL2pzbmF0aW9uLXRoZW1lL3NyYy90aGVtZS1maWxlcy9wb3N0LmpzLmpzIiwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./packages/jsnation-theme/src/theme-files/post.js\n");
+
+/***/ })
+
+})

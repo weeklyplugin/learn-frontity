@@ -1,0 +1,89 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "3a065d72912a2780106c",
+  "publicPath": "/static/",
+  "outputPath": "/var/www/html/my-app/build/static",
+  "assetsByChunkName": {
+    "my-app": [
+      "my-app.module.js",
+      "my-app.6976d6665bfab8a8bb96.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "6976d6665bfab8a8bb96.hot-update.json",
+      "size": 48,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "my-app.6976d6665bfab8a8bb96.hot-update.js",
+      "size": 4274,
+      "chunks": [
+        "my-app"
+      ],
+      "chunkNames": [
+        "my-app"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "my-app.module.js",
+      "size": 4888010,
+      "chunks": [
+        "my-app"
+      ],
+      "chunkNames": [
+        "my-app"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "my-app": {
+      "chunks": [
+        "my-app"
+      ],
+      "assets": [
+        "my-app.module.js",
+        "my-app.6976d6665bfab8a8bb96.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "my-app": {
+      "chunks": [
+        "my-app"
+      ],
+      "assets": [
+        "my-app.module.js",
+        "my-app.6976d6665bfab8a8bb96.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
